@@ -17,7 +17,7 @@
 1. keras based Segnet, FCN, UNet, PSPNet : https://github.com/divamgupta/image-segmentation-keras
 2. keras segmentation pipeline : https://github.com/musket-ml/segmentation_training_pipeline
 3. torch-based segmentation : https://github.com/open-mmlab/mmdetection
-4. 
+4. NASUNET for segmentation in medical : https://github.com/tianbaochou/NasUnet
 
 ### Image Preprocessing
 1. albumentation : https://github.com/albu/albumentations
